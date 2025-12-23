@@ -9,3 +9,7 @@
 
 ## Foundations of Algorithmic Thinking
 [link](https://www.youtube.com/live/AOa_54oPJbo?si=1GxDj-UeJdaa04Il)
+
+
+## NumPy Fundamentals
+[link]()
